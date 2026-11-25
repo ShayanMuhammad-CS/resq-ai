@@ -1,6 +1,7 @@
 # ResQ-AI: The Offline Disaster Resilience & Emergency Medical Triage Agent
 
 > **Built for Google #BuildHybridAI 2026 Hackathon**  
+> **Live Web App**: [https://shayanmuhammad-cs.github.io/resq-ai/](https://shayanmuhammad-cs.github.io/resq-ai/)  
 > **Architecture**: Hybrid On-Device (Chrome Gemini Nano / Clinical START Engine) × Cloud Firebase AI Logic  
 > **Status**: Production-Ready PWA • Zero-Network Field Blackout Resilient  
 

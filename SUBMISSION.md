@@ -2,6 +2,7 @@
 
 > **Hackathon**: Google #BuildHybridAI 2026 ($30,000 Cash Prizes)  
 > **Target Category**: Grand Prize ($10,000) & Best Web/Chrome App ($3,000)  
+> **Live Demo URL**: [https://shayanmuhammad-cs.github.io/resq-ai/](https://shayanmuhammad-cs.github.io/resq-ai/)  
 > **Repository**: [https://github.com/ShayanMuhammad-CS/resq-ai](https://github.com/ShayanMuhammad-CS/resq-ai)  
 > **Devpost Portal**: [Submit to #BuildHybridAI 2026](https://devpost.com/submit-to/31808-buildhybridai-2026/manage/submissions)  
 
