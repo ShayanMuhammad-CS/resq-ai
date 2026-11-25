@@ -25,3 +25,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Media & Video Generation artifacts
+video/
+*.mp4
+*.webm
+
