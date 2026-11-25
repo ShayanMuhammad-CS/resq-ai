@@ -5,7 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.BASE_PATH || '/resq-ai/',
+  base: process.env.BASE_PATH || (process.env.VERCEL ? '/' : '/resq-ai/'),
   plugins: [
     react(),
     tailwindcss(),
